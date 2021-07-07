@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app>
+
+	<servlet>
+		<servlet-name>Signup-Servlet</servlet-name>
+		<servlet-class>Signup</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>Signup-Servlet</servlet-name>
+		<url-pattern>/Signup</url-pattern>
+	</servlet-mapping>
+
+
+	<servlet>
+		<servlet-name>Login-Servlet</servlet-name>
+		<servlet-class>Login</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>Login-Servlet</servlet-name>
+		<url-pattern>/Login</url-pattern>
+	</servlet-mapping>
+
+
+	<servlet>
+		<servlet-name>Update-Profile-Servlet</servlet-name>
+		<servlet-class>UpdateProfile</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>Update-Profile-Servlet</servlet-name>
+		<url-pattern>/UpdateProfile</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>Delete-Profile-Servlet</servlet-name>
+		<servlet-class>DeleteProfile</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>Delete-Profile-Servlet</servlet-name>
+		<url-pattern>/DeleteProfile</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>Logout-Servlet</servlet-name>
+		<servlet-class>Logout</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>Logout-Servlet</servlet-name>
+		<url-pattern>/Logout</url-pattern>
+	</servlet-mapping>
+
+</web-app>
