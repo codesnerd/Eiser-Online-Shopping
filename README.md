@@ -17,7 +17,12 @@ This web app is built in [Java](https://docs.oracle.com/en/java/) using:
 COMING SOON
 
 ## 🎞 Demo
-COMING SOON
+♦ Register and log in to add items to cart.
+
+![Animation-min](https://user-images.githubusercontent.com/70039999/124971066-306f5c80-e042-11eb-86e8-ed975c4f613e.gif)
+
+\
+♦ COMING SOON
 
 ### If you found the repo useful, do support it by giving a star. ⭐
 
