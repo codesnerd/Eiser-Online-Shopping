@@ -17,12 +17,31 @@ This web app is built in [Java](https://docs.oracle.com/en/java/) using:
 COMING SOON
 
 ## 🎞 Demo
-♦ Register and log in to add items to cart.
+♦ Signup to create an account.
 
-![Animation-min](https://user-images.githubusercontent.com/70039999/124971066-306f5c80-e042-11eb-86e8-ed975c4f613e.gif)
+![1- Signup](https://user-images.githubusercontent.com/70039999/125039595-19675380-e0b0-11eb-8a4f-34383214fc10.gif)
 
 \
-♦ COMING SOON
+♦ Login to access your profile.
+
+![2- Login](https://user-images.githubusercontent.com/70039999/125039625-2421e880-e0b0-11eb-9a9a-82bd3b0ceb5f.gif)
+
+\
+♦ You can now update your profile.
+
+![3- Update Profile](https://user-images.githubusercontent.com/70039999/125039679-30a64100-e0b0-11eb-8c80-63593b4022ad.gif)
+
+\
+♦ Add / Remove items from cart.
+
+![4- Add or Remove from Cart](https://user-images.githubusercontent.com/70039999/125042263-13bf3d00-e0b3-11eb-98ec-4f55d0a36c8f.gif)
+
+
+\
+♦ Delete Profile
+
+![5- Delete Profile](https://user-images.githubusercontent.com/70039999/125042872-c8595e80-e0b3-11eb-8769-3ffe836fdc20.gif)
+
 
 ### If you found the repo useful, do support it by giving a star. ⭐
 
