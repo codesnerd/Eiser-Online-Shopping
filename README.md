@@ -15,7 +15,7 @@ This web app is built in [Java](https://docs.oracle.com/en/java/) using:
 
 ### Prerequisites
 - [Java Development Kit](https://docs.oracle.com/en/java/javase/13/install/installation-jdk-microsoft-windows-platforms.html#GUID-DAF345BA-B3E7-4CF2-B87A-B6662D691840), [Apache Tomcat 8.5.4](http://tomcat.apache.org/tomcat-8.5-doc/index.html) and [SQLYog](https://webyog.com/product/sqlyog/) should be installed and properly configured on your system.
-- Cut all files from the [jsp](jsp) folder and paste into the root directory. You may delete the jsp directory now.
+- Cut all files from the `jsp` folder and paste them into the root directory. You may delete the `jsp` directory now.
 
 ## 🎞 Demo
 ♦ Signup to create an account.
