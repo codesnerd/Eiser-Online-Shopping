@@ -1,7 +1,7 @@
 # Eiser Online Shopping
 
 ## 🧾 About the Project
-A simple shopping cart web application with follwoing functionalities:
+A simple shopping cart web application with following functionalities:
 * Signup / Login
 * Update / Delete Profile
 * Add / Remove Items from Cart
