@@ -44,7 +44,7 @@ This web app is built in [Java](https://docs.oracle.com/en/java/) using:
 ![5- Delete Profile](https://user-images.githubusercontent.com/70039999/125042872-c8595e80-e0b3-11eb-8769-3ffe836fdc20.gif)
 
 
-### If you found the repo useful, do support it by giving a star. ⭐
+### If you find the repo useful, do support it by giving a star. ⭐
 
 ## 🖋 Author
 Follow my GitHub profile to stay updated with my latest projects:
