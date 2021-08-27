@@ -52,4 +52,4 @@ Follow my GitHub profile to stay updated with my latest projects:
 [![Follow codesnerd on GitHub](https://img.shields.io/badge/Connect-codesnerd-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/codesnerd)
 
 ## 👍 Acknowledgements
-* Template by [Colorlib](https://colorlib.com/).
+* Template by [Colorlib](https://colorlib.com/)
