@@ -2,7 +2,7 @@
 
 ## 🧾 About the Project
 
-A simple shopping cart web application with following functionalities:
+An e-commerce web application with following functionalities:
 
 - Signup / Login
 - Update / Delete Profile
