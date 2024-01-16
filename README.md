@@ -23,27 +23,27 @@ This web app is built in [Java](https://docs.oracle.com/en/java/) using:
 
 ## 🎞 Demo
 
-♦ Signup to create an account.
+● Signup to create an account.
 
 ![1- Signup](https://user-images.githubusercontent.com/70039999/125039595-19675380-e0b0-11eb-8a4f-34383214fc10.gif)
 
 \
-♦ Login to access your profile.
+● Login to access your profile.
 
 ![2- Login](https://user-images.githubusercontent.com/70039999/125039625-2421e880-e0b0-11eb-9a9a-82bd3b0ceb5f.gif)
 
 \
-♦ You can now update your profile.
+● You can now update your profile.
 
 ![3- Update Profile](https://user-images.githubusercontent.com/70039999/125039679-30a64100-e0b0-11eb-8c80-63593b4022ad.gif)
 
 \
-♦ Add / Remove items from cart.
+● Add / Remove items from cart.
 
 ![4- Add or Remove from Cart](https://user-images.githubusercontent.com/70039999/125042263-13bf3d00-e0b3-11eb-98ec-4f55d0a36c8f.gif)
 
 \
-♦ Delete Profile
+● Delete Profile
 
 ![5- Delete Profile](https://user-images.githubusercontent.com/70039999/125042872-c8595e80-e0b3-11eb-8769-3ffe836fdc20.gif)
 
